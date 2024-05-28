@@ -1,0 +1,18 @@
+body{
+    background-image: url(img/WhatsApp\ Image\ 2024-05-28\ at\ 10.23.32\ AM.jpeg);
+}
+
+a{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    border: solid black;
+}
+
+a:hover{
+    background-color: rgb(238, 156, 255);
+    padding:30px ;
+    border-radius: 30px;
+
+}
